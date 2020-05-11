@@ -1,0 +1,213 @@
+country,region,continent,total_cases,total_deaths,total_recovered,active_cases,serious_critical,cases_over_1_m,deaths_over_1_m,total_tests,tests_over_1_m,life_expectancy_index_2019,corruption_perception_index_2019,democracy_index_2019,economic_freedom_index_2019,press_freedom_index_2019,happiness_index_2019,freedom_type_2019,economic_freedom_type_2019,press_freedom_type_2019,democracy_type_2018,bri_country,income_group
+USA,Northern America,Northern America,"588,465","23,711","37,326","527,428","12,772","1,778",72,"2,961,818","8,948",79.11,69.0,79.6,76.8,74.31,68.92,unknown,unknown,unknown,unknown,unknown,unknown
+Spain,Southern Europe,Europe,"172,541","18,056","67,504","86,981","7,371","3,690",386,"600,000","12,833",83.99,62.0,82.89999999999998,65.7,78.01,63.54,free,moderately free,satisfactory situation,full democracy,unknown,unknown
+Italy,Southern Europe,Europe,"159,516","20,465","35,435","103,616","3,260","2,638",338,"1,046,910","17,315",84.01,53.0,75.19999999999997,62.2,75.02,62.23,free,moderately free,satisfactory situation,flawed democracy,Italy,High income
+France,Western Europe,Europe,"136,779","14,967","27,718","94,094","6,821","2,095",229,"333,807","5,114",83.13,69.0,81.19999999999997,63.8,77.78999999999998,65.92,free,moderately free,satisfactory situation,flawed democracy,unknown,unknown
+Germany,Western Europe,Europe,"130,434","3,220","68,200","59,014","4,288","1,557",38,"1,317,887","15,730",81.88,80.0,86.8,73.5,85.4,69.85000000000001,free,mostly free,good situation,full democracy,unknown,unknown
+UK,Northern Europe,Europe,"93,873","12,107",unknown,"81,422","1,559","1,383",178,"382,650","5,637",81.77,77.0,85.19999999999997,78.9,77.77,70.53999999999998,unknown,unknown,unknown,unknown,unknown,unknown
+China,Eastern Asia,Asia,"82,249","3,341","77,738","1,170",116,57,2,unknown,unknown,77.47,41.0,22.6,58.4,21.08,51.91,not free,mostly unfree,very serious situation,authoritarian regime,China,Upper middle income
+Iran,Southern Asia,Asia,"74,877","4,683","48,129","22,065","3,691",891,56,"287,359","3,421",77.33,26.0,23.8,51.1,35.59,45.48,not free,mostly unfree,very serious situation,authoritarian regime,Iran,Upper middle income
+Turkey,Western Asian,Asia,"61,049","1,296","3,957","55,796","1,786",724,15,"410,556","4,868",78.45,39.0,40.9,64.6,47.19,53.72999999999999,not free,moderately free,difficult situation,hybrid regime,Turkey,Upper middle income
+Belgium,Western Europe,Europe,"31,119","4,157","6,868","20,094","1,223","2,685",359,"102,151","8,814",82.17,75.0,76.39999999999998,67.3,87.93,69.22999999999999,free,moderately free,good situation,flawed democracy,unknown,unknown
+Netherlands,Western Europe,Europe,"27,419","2,945",250,"24,224","1,358","1,600",172,"134,972","7,877",82.78,82.0,90.1,76.8,91.37,74.88,free,mostly free,good situation,full democracy,unknown,unknown
+Switzerland,Western Europe,Europe,"25,913","1,162","13,700","11,051",386,"2,994",134,"199,000","22,993",84.25,85.0,90.3,81.9,89.48,74.80000000000003,free,free,good situation,full democracy,unknown,unknown
+Canada,Northern America,Northern America,"25,680",780,"7,756","17,144",557,680,21,"437,475","11,591",82.96,77.0,92.2,77.7,84.31,72.78,free,mostly free,satisfactory situation,full democracy,unknown,unknown
+Brazil,South America,Latin America and Caribbean,"23,955","1,361","2,979","19,615",296,113,6,"62,985",296,76.57,35.0,68.60000000000001,51.9,67.21000000000001,63.0,free,mostly unfree,noticeable problems,flawed democracy,unknown,unknown
+Russia,Eastern Europe,Europe,"21,102",170,"1,694","19,238",8,145,1,"1,400,000","9,593",72.99,28.0,31.1,58.9,49.69,56.48,not free,mostly unfree,difficult situation,authoritarian regime,Russia,Upper middle income
+Portugal,Southern Europe,Europe,"17,448",567,347,"16,534",218,"1,711",56,"182,707","17,918",82.65,62.0,80.3,65.3,87.37,56.92999999999999,free,moderately free,good situation,flawed democracy,Portugal,High income
+Austria,Western Europe,Europe,"14,159",384,"7,633","6,142",243,"1,572",43,"151,796","16,854",82.05,77.0,82.89999999999998,72.0,84.67,72.46000000000002,free,mostly free,satisfactory situation,full democracy,Austria,High income
+Israel,Western Asian,Asia,"11,868",117,"2,000","9,751",181,"1,371",14,"117,339","13,557",83.49,60.0,78.60000000000002,72.8,69.2,71.38999999999999,free,mostly free,noticeable problems,flawed democracy,unknown,unknown
+Sweden,Northern Europe,Europe,"11,445","1,033",381,"10,031",915,"1,133",102,"54,700","5,416",83.33,85.0,93.9,75.2,91.69,73.43,free,mostly free,good situation,full democracy,unknown,unknown
+Ireland,Northern Europe,Europe,"10,647",365,25,"10,257",194,"2,156",74,"72,000","14,581",82.81,74.0,92.4,80.5,85.0,70.21,free,free,good situation,full democracy,unknown,unknown
+South Korea,Eastern Asia,Asia,"10,564",222,"7,534","2,808",55,206,4,"527,438","10,288",83.5,59.0,80.0,72.3,75.06,58.95,unknown,unknown,unknown,unknown,South Korea,High income
+India,Southern Asia,Asia,"10,541",358,"1,205","8,978",unknown,8,0.3,"206,212",149,70.42,41.0,69.0,55.2,54.33,40.15,free,mostly unfree,difficult situation,flawed democracy,unknown,unknown
+Peru,South America,Latin America and Caribbean,"9,784",216,"2,642","6,926",143,297,7,"87,116","2,642",77.44,36.0,66.0,67.8,69.78,56.97,free,moderately free,noticeable problems,flawed democracy,Peru,Upper middle income
+Japan,Eastern Asia,Asia,"7,645",143,799,"6,703",135,60,1,"78,702",622,85.03,73.0,79.9,72.1,70.64,58.86,free,mostly free,noticeable problems,flawed democracy,unknown,unknown
+Ecuador,South America,Latin America and Caribbean,"7,529",355,597,"6,577",121,427,20,"24,553","1,392",77.71,38.0,63.3,46.9,68.12,60.28,partly free,repressed,noticeable problems,flawed democracy,Ecuador,Upper middle income
+Chile,South America,Latin America and Caribbean,"7,525",82,"2,367","5,076",387,394,4,"85,035","4,448",80.74,67.0,80.8,75.4,74.35,64.44,free,mostly free,noticeable problems,flawed democracy,Chile,High income
+Poland,Eastern Europe,Europe,"7,049",251,618,"6,180",160,186,7,"148,321","3,919",79.27,58.0,66.2,67.8,71.11,61.82000000000001,free,moderately free,noticeable problems,flawed democracy,Poland,High income
+Romania,Eastern Europe,Europe,"6,879",351,"1,051","5,477",241,358,18,"70,097","3,644",76.5,44.0,64.9,68.6,74.33,60.7,free,moderately free,noticeable problems,flawed democracy,Romania,Upper middle income
+Norway,Northern Europe,Europe,"6,623",139,32,"6,452",59,"1,222",26,"128,569","23,716",82.94,84.0,98.7,73.0,92.18,75.53999999999998,free,mostly free,good situation,full democracy,unknown,unknown
+Denmark,Northern Europe,Europe,"6,496",299,"2,515","3,682",100,"1,122",52,"73,919","12,762",81.4,87.0,92.2,76.7,90.13,76.0,free,mostly free,good situation,full democracy,unknown,unknown
+Australia,Australia & New Zealand,Oceania,"6,400",61,"3,598","2,741",80,251,2,"366,493","14,372",83.94,77.0,90.9,80.9,83.45,72.28,free,free,satisfactory situation,full democracy,unknown,unknown
+Czech Republic,Eastern Europe,Europe,"6,059",147,527,"5,385",92,566,14,"131,542","12,283",79.85,56.0,76.9,73.7,75.11,68.52000000000001,free,mostly free,satisfactory situation,flawed democracy,Czech Republic,High income
+Pakistan,Southern Asia,Asia,"5,837",96,"1,378","4,363",46,26,0.4,"69,928",317,67.79,32.0,42.5,55.0,54.17,56.53,partly free,mostly unfree,difficult situation,hybrid regime,Pakistan,Lower middle income
+Saudi Arabia,Western Asian,Asia,"5,369",73,889,"4,407",59,154,2,"115,585","3,320",75.69,53.0,19.3,60.7,34.120000000000005,63.75,not free,moderately free,very serious situation,authoritarian regime,Saudi Arabia,High income
+Philippines,South-Eastern Asia,Asia,"5,223",335,295,"4,593",1,48,3,"38,103",348,71.66,34.0,66.39999999999999,63.8,56.09,56.31,partly free,moderately free,difficult situation,flawed democracy,Philippines,Lower middle income
+Mexico,Central America,Latin America and Caribbean,"5,014",332,"1,964","2,718",207,39,3,"37,395",290,75.41,29.0,60.9,64.7,53.22,65.95,partly free,moderately free,difficult situation,flawed democracy,unknown,unknown
+Malaysia,South-Eastern Asia,Asia,"4,987",82,"2,478","2,427",60,154,3,"81,730","2,525",76.65,53.0,71.6,74.0,63.26,53.38999999999999,partly free,mostly free,difficult situation,flawed democracy,Malaysia,Upper middle income
+Indonesia,South-Eastern Asia,Asia,"4,839",459,426,"3,954",unknown,18,2,"31,628",116,72.32,40.0,64.80000000000001,65.8,63.23,51.92,partly free,moderately free,difficult situation,flawed democracy,Indonesia,Lower middle income
+UAE,Western Asian,Asia,"4,521",25,852,"3,644",1,457,3,"648,195","65,538",78.46,71.0,27.6,77.1,56.37,68.25,unknown,unknown,unknown,unknown,UAE,High income
+Serbia,Southern Europe,Europe,"4,465",94,400,"3,971",131,511,11,"23,398","2,678",76.47,39.0,64.1,63.9,68.82,56.03,partly free,moderately free,noticeable problems,flawed democracy,Serbia,Upper middle income
+Panama,Central America,Latin America and Caribbean,"3,472",94,61,"3,317",106,805,22,"15,567","3,608",79.1,36.0,70.5,67.2,70.22,63.21000000000001,free,moderately free,noticeable problems,flawed democracy,Panama,High income
+Qatar,Western Asian,Asia,"3,428",7,373,"3,048",37,"1,190",2,"52,622","18,265",80.73,62.0,31.9,72.6,57.49,63.74,not free,mostly free,difficult situation,authoritarian regime,Qatar,High income
+Ukraine,Eastern Europe,Europe,"3,372",98,119,"3,155",45,77,2,"35,153",804,72.5,30.0,59.0,52.3,67.53999999999999,43.32,partly free,mostly unfree,noticeable problems,hybrid regime,Ukraine,Lower middle income
+Luxembourg,Western Europe,Europe,"3,292",69,500,"2,723",30,"5,259",110,"29,315","46,831",82.79,80.0,88.10000000000002,75.9,84.34,70.9,free,mostly free,satisfactory situation,full democracy,Luxembourg,High income
+Dominican Republic,Caribbean,Latin America and Caribbean,"3,286",183,162,"2,941",143,303,17,"9,275",855,74.65,28.0,65.4,61.0,72.1,54.25,partly free,moderately free,noticeable problems,flawed democracy,unknown,unknown
+Belarus,Eastern Europe,Europe,"3,281",33,203,"3,045",57,347,3,"71,875","7,606",75.2,45.0,24.8,57.9,48.34,53.23,not free,mostly unfree,difficult situation,authoritarian regime,Belarus,Upper middle income
+Singapore,South-Eastern Asia,Asia,"3,252",10,611,"2,631",29,556,2,"72,680","12,423",84.07,85.0,60.2,89.4,48.59,62.62000000000001,partly free,free,difficult situation,flawed democracy,Singapore,High income
+Finland,Northern Europe,Europe,"3,161",64,300,"2,797",74,571,12,"47,290","8,535",82.48,86.0,92.5,74.9,92.1,77.69,free,mostly free,good situation,full democracy,unknown,unknown
+Colombia,South America,Latin America and Caribbean,"2,852",112,319,"2,421",106,56,2,"43,053",846,77.87,37.0,71.3,67.3,57.18,61.25,partly free,moderately free,difficult situation,flawed democracy,unknown,unknown
+Thailand,South-Eastern Asia,Asia,"2,613",41,"1,405","1,167",61,37,0.6,"100,498","1,440",77.74,36.0,63.2,68.3,55.9,60.07999999999999,not free,moderately free,difficult situation,hybrid regime,Thailand,Upper middle income
+South Africa,Southern Africa,Africa,"2,415",27,410,"1,978",7,41,0.5,"87,022","1,467",64.88,44.0,72.4,58.3,77.81,47.22,free,mostly unfree,satisfactory situation,flawed democracy,South Africa,Upper middle income
+Argentina,South America,Latin America and Caribbean,"2,277",101,559,"1,617",83,50,2,"22,805",505,77.17,45.0,70.19999999999999,52.2,71.7,60.86,free,mostly unfree,noticeable problems,flawed democracy,unknown,unknown
+Egypt,Northern Africa,Africa,"2,190",164,589,"1,437",unknown,21,2,"25,000",244,72.54,35.0,30.6,52.5,43.53,41.66,not free,mostly unfree,very serious situation,authoritarian regime,Egypt,Lower middle income
+Greece,Southern Europe,Europe,"2,145",99,269,"1,777",73,206,9,"43,417","4,165",82.8,48.0,74.3,57.7,70.92,52.87000000000001,free,mostly unfree,noticeable problems,flawed democracy,Greece,High income
+Algeria,Northern Africa,Africa,"1,983",313,601,"1,069",60,45,7,"3,359",77,77.5,35.0,40.1,46.2,54.25,52.11,not free,repressed,difficult situation,authoritarian regime,Algeria,Upper middle income
+Moldova,Eastern Europe,Europe,"1,934",36,134,"1,764",80,479,9,"6,271","1,555",72.3,32.0,57.5,59.1,68.78999999999999,55.29,partly free,mostly unfree,noticeable problems,hybrid regime,Moldova,Lower middle income
+Morocco,Northern Africa,Africa,"1,838",126,210,"1,502",1,50,3,"9,609",260,77.43,41.0,51.0,62.9,56.02,52.07999999999999,partly free,moderately free,difficult situation,hybrid regime,Morocco,Lower middle income
+Iceland,Northern Europe,Europe,"1,720",8,989,723,8,"5,040",23,"36,339","106,490",83.52,78.0,95.8,77.1,85.28999999999998,74.94,free,mostly free,good situation,full democracy,unknown,unknown
+Croatia,Southern Europe,Europe,"1,704",31,415,"1,258",34,415,8,"18,359","4,472",79.02,47.0,65.7,61.4,70.97,54.32000000000001,free,moderately free,noticeable problems,flawed democracy,Croatia,High income
+Bahrain,Western Asian,Asia,"1,522",7,645,870,3,894,4,"69,359","40,762",77.73,42.0,25.5,66.4,38.69,61.99,not free,moderately free,very serious situation,authoritarian regime,Bahrain,High income
+Hungary,Eastern Europe,Europe,"1,512",122,122,"1,268",58,157,13,"35,825","3,708",77.31,44.0,66.3,65.0,69.56,57.57999999999999,partly free,moderately free,noticeable problems,flawed democracy,Hungary,High income
+Iraq,Western Asian,Asia,"1,378",78,717,583,unknown,34,2,"37,791",940,71.08,20.0,37.40000000000001,unknown,47.4,44.37000000000001,not free,unknown,difficult situation,hybrid regime,Iraq,Upper middle income
+Estonia,Northern Europe,Europe,"1,373",31,115,"1,227",11,"1,035",23,"32,263","24,321",79.18,74.0,79.0,76.6,87.73,58.93,free,mostly free,good situation,flawed democracy,Estonia,High income
+New Zealand,Australia & New Zealand,Oceania,"1,366",9,628,729,4,283,2,"64,399","13,355",82.8,87.0,92.6,84.4,89.25,73.07000000000002,free,free,good situation,full democracy,New Zealand,High income
+Kuwait,Western Asian,Asia,"1,355",3,176,"1,176",26,317,0.7,unknown,unknown,75.85,40.0,39.3,60.8,66.14,60.11,partly free,moderately free,noticeable problems,authoritarian regime,Kuwait,High income
+Slovenia,Southern Europe,Europe,"1,220",56,152,"1,012",35,587,27,"35,946","17,291",81.85,60.0,75.0,65.5,77.69,61.17999999999999,free,moderately free,satisfactory situation,flawed democracy,Slovenia,High income
+Kazakhstan,Central Asia,Asia,"1,202",14,203,985,21,64,0.7,"76,904","4,096",73.9,34.0,29.4,65.4,47.18,58.09,not free,moderately free,difficult situation,authoritarian regime,Kazakhstan,Upper middle income
+Azerbaijan,Western Asian,Asia,"1,197",13,351,833,25,118,1,"66,677","6,576",73.33,30.0,27.5,65.4,40.87,52.07999999999999,not free,moderately free,very serious situation,authoritarian regime,Azerbaijan,Upper middle income
+Uzbekistan,Central Asia,Asia,"1,113",4,99,"1,010",8,33,0.1,"70,000","2,091",72.04,25.0,20.1,53.3,46.48,61.74,not free,mostly unfree,difficult situation,authoritarian regime,Uzbekistan,Lower middle income
+Bosnia and Herzegovina,Southern Europe,Europe,"1,083",40,236,807,4,330,12,"12,407","3,782",77.93,36.0,48.6,61.9,70.98,53.86,partly free,moderately free,noticeable problems,hybrid regime,Bosnia and Herzegovina,Upper middle income
+Lithuania,Northern Europe,Europe,"1,070",26,101,943,14,393,10,"42,690","15,682",76.41,60.0,75.0,74.2,77.94,61.49,free,mostly free,satisfactory situation,flawed democracy,Lithuania,High income
+Armenia,Western Asian,Asia,"1,067",16,265,786,30,360,5,"8,316","2,806",75.55,42.0,55.4,67.7,71.02,45.59,partly free,moderately free,noticeable problems,hybrid regime,Armenia,Upper middle income
+Hong Kong,Eastern Asia,Asia,"1,013",4,434,575,13,135,0.5,"96,709","12,900",85.29,76.0,60.2,90.2,70.35,54.3,partly free,free,noticeable problems,flawed democracy,unknown,unknown
+Bangladesh,Southern Asia,Asia,"1,012",46,42,924,1,6,0.3,"13,128",80,73.57,26.0,58.8,55.6,49.26,44.56,partly free,mostly unfree,difficult situation,hybrid regime,Bangladesh,Lower middle income
+North Macedonia,Southern Europe,Europe,908,44,86,778,15,436,21,"9,262","4,446",76.26,35.0,59.7,71.1,68.34,52.74,unknown,unknown,unknown,unknown,North Macedonia,Upper middle income
+Cameroon,Middle Africa,Africa,848,14,130,704,unknown,32,0.5,unknown,unknown,60.32,25.0,28.5,52.4,56.68,50.44,not free,mostly unfree,difficult situation,authoritarian regime,Cameroon,Lower middle income
+Slovakia,Eastern Europe,Europe,835,2,113,720,5,153,0.4,"30,052","5,504",78.0,50.0,71.7,65.0,76.42,61.98,free,moderately free,satisfactory situation,flawed democracy,unknown,unknown
+Oman,Western Asian,Asia,813,4,130,679,3,159,0.8,unknown,unknown,78.58,52.0,30.6,61.0,56.58,unknown,not free,moderately free,difficult situation,authoritarian regime,Oman,High income
+Tunisia,Northern Africa,Africa,726,34,43,649,89,61,3,"11,825","1,001",77.36,43.0,67.2,55.4,70.39,44.61,free,mostly unfree,noticeable problems,flawed democracy,Tunisia,Lower middle income
+Cuba,Caribbean,Latin America and Caribbean,726,21,121,584,11,64,2,"17,133","1,513",79.18,48.0,28.4,27.8,36.19,unknown,not free,repressed,very serious situation,authoritarian regime,Cuba,Upper middle income
+Afghanistan,Southern Asia,Asia,714,23,40,651,unknown,18,0.6,unknown,unknown,65.98,16.0,28.5,51.5,63.45,32.03,not free,mostly unfree,difficult situation,authoritarian regime,Afghanistan,Low income
+Bulgaria,Eastern Europe,Europe,713,35,81,597,29,103,5,"18,502","2,663",75.49,43.0,70.3,69.0,64.89,50.11,free,moderately free,difficult situation,flawed democracy,Bulgaria,Upper middle income
+Diamond Princess,unknown,unknown,712,12,639,61,7,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Cyprus,Western Asian,Asia,662,12,65,585,8,548,10,"17,923","14,845",81.51,58.0,75.9,68.1,78.26,60.46,free,moderately free,satisfactory situation,flawed democracy,Cyprus,High income
+Latvia,Northern Europe,Europe,657,5,16,636,3,348,3,"29,018","15,384",75.73,56.0,74.9,70.4,80.47,59.40000000000001,free,mostly free,satisfactory situation,flawed democracy,Latvia,High income
+Andorra,Southern Europe,Europe,646,29,128,489,17,"8,361",375,"1,673","21,653",unknown,unknown,unknown,unknown,75.37,unknown,free,unknown,satisfactory situation,unknown,unknown,unknown
+Lebanon,Western Asian,Asia,641,21,80,540,33,94,3,"16,319","2,391",79.27,28.0,43.6,51.1,67.56,51.97,partly free,mostly unfree,noticeable problems,hybrid regime,Lebanon,Upper middle income
+Ivory Coast,Western Africa,Africa,626,6,89,531,unknown,24,0.2,unknown,unknown,58.75,35.0,40.5,62.4,70.48,49.44,partly free,moderately free,noticeable problems,hybrid regime,Ivory Coast,Lower middle income
+Costa Rica,Central America,Latin America and Caribbean,612,3,62,547,14,120,0.6,"6,868","1,348",80.94,56.0,81.30000000000003,65.3,87.76,71.67,free,moderately free,good situation,full democracy,Costa Rica,Upper middle income
+Ghana,Western Africa,Africa,566,8,4,554,2,18,0.3,"37,954","1,221",64.94,41.0,66.3,57.5,79.19,49.96000000000001,free,mostly unfree,satisfactory situation,flawed democracy,Ghana,Lower middle income
+Niger,Western Africa,Africa,548,13,86,449,unknown,23,0.5,"4,399",182,63.62,32.0,32.9,51.6,70.74,46.28,partly free,mostly unfree,noticeable problems,authoritarian regime,Niger,Low income
+Burkina Faso,Western Africa,Africa,515,27,161,327,unknown,25,1,unknown,unknown,62.98,40.0,40.4,59.4,75.47,45.87,partly free,mostly unfree,satisfactory situation,hybrid regime,unknown,unknown
+Uruguay,South America,Latin America and Caribbean,483,8,248,227,15,139,2,"9,236","2,659",78.43,71.0,83.80000000000003,68.6,83.94,62.92999999999999,free,moderately free,satisfactory situation,full democracy,Uruguay,High income
+Albania,Southern Europe,Europe,475,24,248,203,5,165,8,"4,306","1,496",78.96,35.0,58.9,66.5,70.16,47.19,partly free,moderately free,noticeable problems,hybrid regime,Albania,Upper middle income
+Channel Islands,Northern Europe,Europe,436,9,48,379,unknown,"2,508",52,"3,320","19,095",83.6,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Kyrgyzstan,Central Asia,Asia,430,5,71,354,5,66,0.8,"26,147","4,008",71.95,30.0,48.9,unknown,70.08,52.61,partly free,moderately free,noticeable problems,hybrid regime,unknown,unknown
+Honduras,Central America,Latin America and Caribbean,407,26,7,374,10,41,3,"1,600",162,75.87,26.0,54.2,60.2,51.47,58.6,partly free,moderately free,difficult situation,hybrid regime,unknown,unknown
+Taiwan,Eastern Asia,Asia,393,6,124,263,unknown,17,0.3,"48,549","2,038",81.04,65.0,77.30000000000003,77.3,75.02,64.46000000000001,free,mostly free,satisfactory situation,flawed democracy,unknown,unknown
+Malta,Southern Europe,Europe,393,3,44,346,4,890,7,"19,121","43,305",83.06,54.0,79.5,68.6,70.26,67.26,free,moderately free,noticeable problems,full democracy,Malta,High income
+Jordan,Western Asian,Asia,391,7,215,169,5,38,0.7,"20,500","2,009",75.01,48.0,39.3,66.5,56.89,49.06,partly free,moderately free,difficult situation,authoritarian regime,unknown,unknown
+Réunion,Eastern Africa,Africa,391,unknown,40,351,3,437,unknown,unknown,unknown,81.55,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+San Marino,Southern Europe,Europe,371,36,53,282,15,"10,934","1,061",846,"24,933",unknown,unknown,unknown,unknown,unknown,unknown,free,unknown,unknown,unknown,unknown,unknown
+Djibouti,Eastern Africa,Africa,363,2,53,308,unknown,367,2,"5,356","5,421",67.87,30.0,27.7,47.1,28.64,unknown,not free,repressed,very serious situation,authoritarian regime,Djibouti,Lower middle income
+Guinea,Western Africa,Africa,363,unknown,31,332,unknown,28,unknown,unknown,unknown,62.64,29.0,31.4,55.7,66.50999999999999,45.34,partly free,mostly unfree,noticeable problems,authoritarian regime,Guinea,Low income
+Bolivia,South America,Latin America and Caribbean,354,28,6,320,3,30,2,"2,185",187,72.35,31.0,48.4,42.3,64.62,57.79,partly free,repressed,difficult situation,hybrid regime,Bolivia,Lower middle income
+Nigeria,Western Africa,Africa,343,10,91,242,2,2,0.05,"5,000",24,55.75,26.0,41.2,57.3,63.5,52.65,partly free,mostly unfree,difficult situation,hybrid regime,Nigeria,Lower middle income
+Mauritius,Eastern Africa,Africa,324,9,51,264,3,255,7,"7,077","5,565",75.51,52.0,82.2,73.0,71.53999999999998,58.88,free,mostly free,noticeable problems,full democracy,unknown,unknown
+Palestine,Western Asian,Asia,308,2,62,244,unknown,60,0.4,"17,329","3,397",74.62,unknown,38.9,unknown,55.32,46.96000000000001,not free,unknown,difficult situation,hybrid regime,unknown,unknown
+Senegal,Western Africa,Africa,299,2,183,114,1,18,0.1,unknown,unknown,68.87,45.0,58.1,56.3,74.19,46.81,free,mostly unfree,noticeable problems,flawed democracy,Senegal,Low income
+Georgia,Western Asian,Asia,296,3,68,225,6,74,0.8,"3,271",820,74.24,56.0,54.2,75.9,71.02,45.19,partly free,mostly free,noticeable problems,hybrid regime,Georgia,Lower middle income
+Montenegro,Southern Europe,Europe,278,4,5,269,7,443,6,"2,869","4,568",77.39,45.0,56.5,60.5,67.25999999999999,55.23,partly free,moderately free,noticeable problems,hybrid regime,Montenegro,Upper middle income
+Vietnam,South-Eastern Asia,Asia,266,unknown,169,97,8,3,unknown,"121,821","1,252",75.77,37.0,30.8,55.3,25.069999999999997,51.75,not free,mostly unfree,very serious situation,authoritarian regime,Vietnam,Lower middle income
+Isle of Man,Northern Europe,Europe,242,2,141,99,13,"2,846",24,"2,085","24,520",unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+DR Congo,Middle Africa,Africa,241,20,20,201,unknown,3,0.2,unknown,unknown,61.6,18.0,11.3,50.3,48.29,44.18,unknown,unknown,unknown,unknown,unknown,unknown
+Sri Lanka,Southern Asia,Asia,219,7,61,151,1,10,0.3,"4,525",211,77.56,38.0,62.7,56.4,60.39,43.66,partly free,mostly unfree,difficult situation,flawed democracy,Sri Lanka,Lower middle income
+Mayotte,Eastern Africa,Africa,217,3,69,145,3,795,11,"1,500","5,498",79.85,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Kenya,Eastern Africa,Africa,208,9,40,159,2,4,0.2,"8,123",151,67.47,28.0,51.8,55.1,67.56,45.09,partly free,mostly unfree,noticeable problems,hybrid regime,Kenya,Lower middle income
+Venezuela,South America,Latin America and Caribbean,189,9,110,70,6,7,0.3,"203,108","7,143",72.34,16.0,28.8,25.9,50.9,47.07,not free,repressed,difficult situation,authoritarian regime,Venezuela,Upper middle income
+Faeroe Islands,Northern Europe,Europe,184,unknown,163,21,unknown,"3,766",unknown,"5,602","114,647",unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Guatemala,Central America,Latin America and Caribbean,167,5,19,143,3,9,0.3,"1,134",63,75.05,26.0,52.6,62.6,64.06,64.36,partly free,moderately free,difficult situation,hybrid regime,unknown,unknown
+Paraguay,South America,Latin America and Caribbean,159,7,22,130,1,22,1,"3,394",476,74.59,28.0,62.40000000000001,61.8,67.6,57.42999999999999,partly free,moderately free,noticeable problems,flawed democracy,unknown,unknown
+Martinique,Caribbean,Latin America and Caribbean,157,6,50,101,19,418,16,unknown,unknown,83.13,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+El Salvador,Central America,Latin America and Caribbean,149,6,25,118,2,23,0.9,"7,230","1,115",74.06,34.0,61.5,61.8,70.19,62.53,free,moderately free,noticeable problems,hybrid regime,El Salvador,Lower middle income
+Guadeloupe,Caribbean,Latin America and Caribbean,145,8,67,70,13,362,20,unknown,unknown,82.74,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Brunei,South-Eastern Asia,Asia,136,1,107,28,2,311,2,"10,350","23,658",76.35,60.0,unknown,65.1,48.52,unknown,not free,moderately free,difficult situation,unknown,Brunei,High income
+Gibraltar,Southern Europe,Europe,129,unknown,93,36,1,"3,829",unknown,"1,649","48,945",unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Rwanda,Eastern Africa,Africa,127,unknown,42,85,unknown,10,unknown,"6,237",482,70.0,53.0,31.6,71.1,47.57,33.34,not free,mostly free,difficult situation,authoritarian regime,Rwanda,Low income
+Mali,Western Africa,Africa,123,10,26,87,unknown,6,0.5,unknown,unknown,60.54,29.0,49.2,58.1,64.77000000000001,43.9,partly free,mostly unfree,difficult situation,hybrid regime,Mali,Low income
+Cambodia,South-Eastern Asia,Asia,122,unknown,91,31,1,7,unknown,"5,768",345,70.54,20.0,35.3,57.8,54.1,47.0,not free,mostly unfree,difficult situation,authoritarian regime,Cambodia,Lower middle income
+Trinidad and Tobago,Caribbean,Latin America and Caribbean,113,8,17,88,unknown,81,6,"1,152",823,73.91,40.0,71.6,57.0,75.26,unknown,free,mostly unfree,satisfactory situation,flawed democracy,Trinidad and Tobago,High income
+Madagascar,Eastern Africa,Africa,108,unknown,23,85,1,4,unknown,unknown,unknown,68.21,24.0,56.4,56.6,72.24,39.33000000000001,partly free,mostly unfree,noticeable problems,hybrid regime,Madagascar,Low income
+Monaco,Western Europe,Europe,93,1,6,86,5,"2,370",25,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,free,unknown,unknown,unknown,unknown,unknown
+Aruba,Caribbean,Latin America and Caribbean,92,unknown,32,60,1,862,unknown,"1,145","10,724",76.79,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+French Guiana,South America,Latin America and Caribbean,86,unknown,51,35,1,288,unknown,unknown,unknown,80.53,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Ethiopia,Eastern Africa,Africa,82,3,14,65,unknown,0.7,0.03,"4,557",40,67.81,37.0,34.4,53.6,64.89,42.86000000000001,not free,mostly unfree,difficult situation,authoritarian regime,Ethiopia,Low income
+Liechtenstein,Western Europe,Europe,79,1,55,23,unknown,"2,072",26,900,"23,605",unknown,unknown,unknown,unknown,79.51,unknown,free,unknown,satisfactory situation,unknown,unknown,unknown
+Togo,Western Africa,Africa,77,3,32,42,unknown,9,0.4,"2,806",339,62.13,29.0,33.0,50.3,70.31,40.85,partly free,mostly unfree,noticeable problems,authoritarian regime,Togo,Low income
+Jamaica,Caribbean,Latin America and Caribbean,73,4,19,50,unknown,25,1,"1,199",405,74.88,43.0,69.6,68.6,88.87,58.9,free,moderately free,good situation,flawed democracy,Jamaica,Upper middle income
+Barbados,Caribbean,Latin America and Caribbean,72,4,13,55,4,251,14,839,"2,920",79.64,62.0,unknown,64.7,unknown,unknown,free,moderately free,unknown,unknown,Barbados,High income
+Myanmar,South-Eastern Asia,Asia,63,4,2,57,unknown,1,0.07,"2,443",45,67.78,29.0,35.5,53.6,55.08,43.6,unknown,unknown,unknown,unknown,Myanmar,Lower middle income
+Congo,Middle Africa,Africa,60,5,5,50,unknown,11,0.9,unknown,unknown,65.21,19.0,31.1,39.7,63.96,48.12000000000001,unknown,unknown,unknown,unknown,Congo,Lower middle income
+Somalia,Eastern Africa,Africa,60,2,2,56,2,4,0.1,unknown,unknown,58.34,9.0,unknown,unknown,42.76,46.68,not free,unknown,very serious situation,unknown,Somalia,Low income
+Liberia,Western Africa,Africa,59,6,4,49,unknown,12,1,unknown,unknown,65.0,28.0,54.5,49.7,68.51,39.75,partly free,repressed,noticeable problems,hybrid regime,Liberia,Low income
+Bermuda,Northern America,Northern America,57,5,30,22,3,915,80,416,"6,680",unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Gabon,Middle Africa,Africa,57,1,1,55,unknown,26,0.4,unknown,unknown,67.03,31.0,36.1,56.3,64.4,47.99,not free,mostly unfree,difficult situation,authoritarian regime,Gabon,Upper middle income
+French Polynesia,Polynesia,Oceania,55,unknown,unknown,55,1,196,unknown,920,"3,275",78.23,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Cayman Islands,Caribbean,Latin America and Caribbean,54,1,6,47,3,822,15,580,"8,825",unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Uganda,Eastern Africa,Africa,54,unknown,8,46,unknown,1,unknown,"5,664",124,64.38,28.0,50.2,59.7,60.58,41.89,not free,mostly unfree,difficult situation,hybrid regime,Uganda,Low income
+Sint Maarten,Caribbean,Latin America and Caribbean,52,9,5,38,2,"1,213",210,134,"3,125",unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Bahamas,Caribbean,Latin America and Caribbean,49,8,6,35,1,125,20,unknown,unknown,74.28,64.0,unknown,62.9,unknown,unknown,free,moderately free,unknown,unknown,unknown,unknown
+Tanzania,Eastern Africa,Africa,49,3,7,39,unknown,0.8,0.05,unknown,unknown,66.39,37.0,51.6,60.2,63.72,32.31,partly free,moderately free,difficult situation,hybrid regime,Tanzania,Low income
+Guyana,South America,Latin America and Caribbean,47,6,8,33,5,60,8,213,271,70.26,40.0,61.5,56.8,73.37,unknown,free,mostly unfree,noticeable problems,flawed democracy,Guyana,Upper middle income
+Zambia,Eastern Africa,Africa,45,2,30,13,1,2,0.1,"1,653",90,64.7,34.0,50.9,53.6,63.62,41.07,partly free,mostly unfree,difficult situation,hybrid regime,Zambia,Lower middle income
+Macao,Eastern Asia,Asia,45,unknown,10,35,1,69,unknown,unknown,unknown,84.68,unknown,unknown,71.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Haiti,Caribbean,Latin America and Caribbean,40,3,unknown,37,unknown,4,0.3,365,32,64.99,18.0,45.7,52.7,71.0,35.97,partly free,mostly unfree,noticeable problems,hybrid regime,unknown,unknown
+Guinea-Bissau,Western Africa,Africa,38,unknown,unknown,38,unknown,19,unknown,"1,500",762,59.38,18.0,26.3,54.0,69.05,unknown,partly free,mostly unfree,noticeable problems,authoritarian regime,unknown,unknown
+Benin,Western Africa,Africa,35,1,5,29,unknown,3,0.08,unknown,unknown,62.84,41.0,50.9,55.3,68.26,48.83,free,mostly unfree,noticeable problems,hybrid regime,Benin,Low income
+Eritrea,Eastern Africa,Africa,34,unknown,unknown,34,unknown,10,unknown,unknown,unknown,67.48,23.0,23.700000000000006,38.9,19.739999999999995,unknown,not free,repressed,very serious situation,authoritarian regime,unknown,unknown
+Saint Martin,Caribbean,Latin America and Caribbean,32,2,11,19,5,828,52,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Mongolia,Eastern Asia,Asia,30,unknown,5,25,unknown,9,unknown,"1,000",305,70.53,35.0,65.0,55.4,70.49,52.85,free,mostly unfree,noticeable problems,flawed democracy,Mongolia,Lower middle income
+Sudan,Northern Africa,Africa,29,4,4,21,unknown,0.7,0.09,unknown,unknown,66.09,16.0,27.0,47.7,27.55,unknown,not free,repressed,very serious situation,authoritarian regime,Sudan,Lower middle income
+Syria,Western Asian,Asia,29,2,5,22,unknown,2,0.1,unknown,unknown,76.06,13.0,14.3,unknown,28.22,34.62,not free,unknown,very serious situation,authoritarian regime,unknown,unknown
+Libya,Northern Africa,Africa,26,1,9,16,unknown,4,0.1,545,79,73.44,18.0,20.2,unknown,44.23,55.25,not free,unknown,very serious situation,authoritarian regime,Libya,Upper middle income
+Antigua and Barbuda,Caribbean,Latin America and Caribbean,23,2,3,18,1,235,20,73,745,77.47,unknown,unknown,unknown,unknown,unknown,free,unknown,noticeable problems,unknown,Antigua and Barbuda,High income
+Chad,Middle Africa,Africa,23,unknown,2,21,unknown,1,unknown,unknown,unknown,55.17,20.0,16.1,49.9,63.29,43.5,not free,repressed,difficult situation,authoritarian regime,Chad,Low income
+Equatorial Guinea,Middle Africa,Africa,21,unknown,4,17,unknown,15,unknown,854,609,59.82,unknown,19.2,41.0,41.65,unknown,not free,repressed,very serious situation,authoritarian regime,Equatorial Guinea,Upper middle income
+Mozambique,Eastern Africa,Africa,21,unknown,2,19,unknown,0.7,unknown,683,22,62.13,26.0,36.5,48.6,67.34,44.66,partly free,repressed,noticeable problems,authoritarian regime,Mozambique,Low income
+Maldives,Southern Asia,Asia,20,unknown,14,6,unknown,37,unknown,unknown,unknown,79.89,29.0,unknown,53.2,67.84,unknown,partly free,mostly unfree,noticeable problems,unknown,Maldives,Upper middle income
+Angola,Middle Africa,Africa,19,2,4,13,unknown,0.6,0.06,unknown,unknown,62.22,26.0,37.2,50.6,65.03999999999999,unknown,not free,mostly unfree,noticeable problems,authoritarian regime,Angola,Lower middle income
+Laos,South-Eastern Asia,Asia,19,unknown,1,18,unknown,3,unknown,"1,235",170,68.89,29.0,21.4,57.4,35.51000000000001,47.96,not free,mostly unfree,very serious situation,authoritarian regime,Laos,Lower middle income
+Belize,Central America,Latin America and Caribbean,18,2,unknown,16,1,45,5,567,"1,426",75.09,unknown,unknown,55.4,72.5,unknown,free,mostly unfree,noticeable problems,unknown,unknown,unknown
+New Caledonia,Melanesia,Oceania,18,unknown,1,17,unknown,63,unknown,"2,608","9,135",78.16,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Zimbabwe,Eastern Africa,Africa,17,3,unknown,14,unknown,1,0.2,604,41,62.16,24.0,31.6,40.4,57.77,36.63,partly free,repressed,difficult situation,authoritarian regime,Zimbabwe,Low income
+Malawi,Eastern Africa,Africa,16,2,unknown,14,1,0.8,0.1,314,16,65.62,31.0,55.0,51.4,70.64,34.1,partly free,mostly unfree,noticeable problems,hybrid regime,unknown,unknown
+Nepal,Southern Asia,Asia,16,unknown,1,15,unknown,0.5,unknown,"6,299",216,71.74,34.0,52.8,53.8,66.6,49.13,partly free,mostly unfree,noticeable problems,hybrid regime,Nepal,Low income
+Dominica,Caribbean,Latin America and Caribbean,16,unknown,8,8,unknown,222,unknown,345,"4,793",unknown,55.0,unknown,63.6,unknown,unknown,free,moderately free,noticeable problems,unknown,Dominica,Upper middle income
+Fiji,Melanesia,Oceania,16,unknown,unknown,16,unknown,18,unknown,unknown,unknown,67.91,unknown,58.5,62.2,72.82,unknown,partly free,moderately free,noticeable problems,hybrid regime,Fiji,Upper middle income
+Namibia,Southern Africa,Africa,16,unknown,3,13,unknown,6,unknown,362,142,64.86,52.0,64.3,58.7,81.05,46.38999999999999,free,mostly unfree,satisfactory situation,flawed democracy,Namibia,Upper middle income
+Saint Lucia,Caribbean,Latin America and Caribbean,15,unknown,4,11,unknown,82,unknown,unknown,unknown,76.67,55.0,unknown,68.7,unknown,unknown,free,moderately free,noticeable problems,unknown,unknown,unknown
+Eswatini,unknown,unknown,15,unknown,8,7,unknown,13,unknown,714,615,61.05,unknown,31.4,54.7,unknown,42.12,not free,mostly unfree,difficult situation,authoritarian regime,unknown,unknown
+Curaçao,Caribbean,Latin America and Caribbean,14,1,10,3,unknown,85,6,230,"1,402",79.41,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Grenada,Caribbean,Latin America and Caribbean,14,unknown,unknown,14,2,124,unknown,92,818,72.59,53.0,unknown,unknown,unknown,unknown,free,unknown,noticeable problems,unknown,Grenada,Upper middle income
+Botswana,Southern Africa,Africa,13,1,unknown,12,unknown,6,0.4,"3,115","1,325",69.86,61.0,78.1,69.5,74.91,34.88,free,moderately free,noticeable problems,flawed democracy,unknown,unknown
+Saint Kitts and Nevis,Caribbean,Latin America and Caribbean,12,unknown,unknown,12,unknown,226,unknown,233,"4,380",unknown,unknown,unknown,unknown,unknown,unknown,free,unknown,noticeable problems,unknown,unknown,unknown
+St. Vincent Grenadines,unknown,unknown,12,unknown,1,11,unknown,108,unknown,87,784,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Central African Republic,Middle Africa,Africa,11,unknown,4,7,unknown,2,unknown,unknown,unknown,54.36,25.0,13.2,49.1,52.73,30.83,not free,repressed,difficult situation,authoritarian regime,unknown,unknown
+Greenland,Northern America,Northern America,11,unknown,11,0,unknown,194,unknown,912,"16,065",unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Montserrat,Caribbean,Latin America and Caribbean,11,unknown,1,10,1,"2,204",unknown,36,"7,212",unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Seychelles,Eastern Africa,Africa,11,unknown,unknown,11,unknown,112,unknown,unknown,unknown,73.74,unknown,unknown,61.4,70.59,unknown,partly free,moderately free,noticeable problems,unknown,Seychelles,High income
+Sierra Leone,Western Africa,Africa,11,unknown,unknown,11,unknown,1,unknown,unknown,unknown,55.92,33.0,48.6,47.5,69.64,43.74,partly free,repressed,noticeable problems,hybrid regime,Sierra Leone,Low income
+Cabo Verde,Western Africa,Africa,10,1,1,8,unknown,18,2,unknown,unknown,73.58,unknown,unknown,63.1,unknown,unknown,unknown,unknown,unknown,unknown,Cabo Verde,Lower middle income
+Suriname,South America,Latin America and Caribbean,10,1,6,3,unknown,17,2,unknown,unknown,72.13,44.0,69.80000000000001,48.1,83.62,unknown,free,repressed,satisfactory situation,flawed democracy,Suriname,Upper middle income
+Turks and Caicos,unknown,unknown,10,1,unknown,9,unknown,258,26,69,"1,782",unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+MS Zaandam,unknown,unknown,9,2,unknown,7,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Gambia,Western Africa,Africa,9,1,2,6,unknown,4,0.4,281,116,63.26,37.0,43.3,unknown,68.65,45.16,partly free,mostly unfree,noticeable problems,hybrid regime,Gambia,Low income
+Nicaragua,Central America,Latin America and Caribbean,9,1,4,4,unknown,1,0.2,unknown,unknown,75.23,22.0,35.5,57.7,64.47,61.05,not free,mostly unfree,difficult situation,authoritarian regime,unknown,unknown
+Vatican City,Southern Europe,Europe,8,unknown,2,6,unknown,"9,988",unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Mauritania,Western Africa,Africa,7,1,2,4,unknown,2,0.2,527,113,65.57,28.0,39.2,55.7,68.35,44.90000000000001,not free,mostly unfree,noticeable problems,authoritarian regime,Mauritania,Lower middle income
+St. Barth,unknown,unknown,6,unknown,4,2,unknown,607,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Timor-Leste,South-Eastern Asia,Asia,6,unknown,1,5,unknown,5,unknown,unknown,unknown,70.18,38.0,71.9,44.2,70.07,unknown,unknown,unknown,unknown,unknown,Timor-Leste,Lower middle income
+Western Sahara,Northern Africa,Africa,6,unknown,unknown,6,unknown,10,unknown,unknown,unknown,71.08,unknown,unknown,unknown,unknown,unknown,not free,unknown,unknown,unknown,unknown,unknown
+Burundi,Eastern Africa,Africa,5,1,unknown,4,unknown,0.4,0.08,unknown,unknown,62.71,19.0,21.5,48.9,47.11,37.75,not free,repressed,difficult situation,authoritarian regime,Burundi,Low income
+Bhutan,Southern Asia,Asia,5,unknown,2,3,unknown,6,unknown,"1,166","1,511",72.77,68.0,53.0,62.9,70.19,50.82,partly free,moderately free,noticeable problems,hybrid regime,unknown,unknown
+Falkland Islands,South America,Latin America and Caribbean,5,unknown,1,4,unknown,"1,437",unknown,137,"39,368",unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Sao Tome and Principe,Middle Africa,Africa,4,unknown,unknown,4,unknown,18,unknown,19,87,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+South Sudan,Eastern Africa,Africa,4,unknown,unknown,4,unknown,0.4,unknown,unknown,unknown,58.74,12.0,unknown,unknown,54.35,28.53,not free,unknown,difficult situation,unknown,South Sudan,Low income
+Anguilla,Caribbean,Latin America and Caribbean,3,unknown,1,2,unknown,200,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+British Virgin Islands,Caribbean,Latin America and Caribbean,3,unknown,2,1,unknown,99,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Caribbean Netherlands,Caribbean,Latin America and Caribbean,3,unknown,unknown,3,unknown,114,unknown,10,381,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Papua New Guinea,Melanesia,Oceania,2,unknown,unknown,2,unknown,0.2,unknown,72,8,65.22,28.0,60.3,58.4,75.3,unknown,partly free,mostly unfree,satisfactory situation,flawed democracy,Papua New Guinea,Lower middle income
+Saint Pierre Miquelon,Northern America,Northern America,1,unknown,unknown,1,unknown,173,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+Yemen,Western Asian,Asia,1,unknown,unknown,1,unknown,0.03,unknown,unknown,unknown,66.44,15.0,19.5,unknown,38.34,33.8,not free,unknown,very serious situation,authoritarian regime,Yemen,Low income

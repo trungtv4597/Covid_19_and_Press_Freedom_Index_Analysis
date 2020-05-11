@@ -1,0 +1,235 @@
+country,region,continent
+India,Southern Asia,Asia
+Pakistan,Southern Asia,Asia
+Bangladesh,Southern Asia,Asia
+Iran,Southern Asia,Asia
+Afghanistan,Southern Asia,Asia
+Nepal,Southern Asia,Asia
+Sri Lanka,Southern Asia,Asia
+Bhutan,Southern Asia,Asia
+Maldives,Southern Asia,Asia
+China,Eastern Asia,Asia
+Japan,Eastern Asia,Asia
+S. Korea,Eastern Asia,Asia
+North Korea,Eastern Asia,Asia
+Taiwan,Eastern Asia,Asia
+Hong Kong,Eastern Asia,Asia
+Mongolia,Eastern Asia,Asia
+Macao,Eastern Asia,Asia
+Indonesia,South-Eastern Asia,Asia
+Philippines,South-Eastern Asia,Asia
+Vietnam,South-Eastern Asia,Asia
+Thailand,South-Eastern Asia,Asia
+Myanmar,South-Eastern Asia,Asia
+Malaysia,South-Eastern Asia,Asia
+Cambodia,South-Eastern Asia,Asia
+Laos,South-Eastern Asia,Asia
+Singapore,South-Eastern Asia,Asia
+Timor-Leste,South-Eastern Asia,Asia
+Brunei,South-Eastern Asia,Asia
+Turkey,Western Asian,Asia
+Iraq,Western Asian,Asia
+Saudi Arabia,Western Asian,Asia
+Yemen,Western Asian,Asia
+Syria,Western Asian,Asia
+Azerbaijan,Western Asian,Asia
+UAE,Western Asian,Asia
+Israel,Western Asian,Asia
+Jordan,Western Asian,Asia
+Lebanon,Western Asian,Asia
+Palestine,Western Asian,Asia
+Oman,Western Asian,Asia
+Kuwait,Western Asian,Asia
+Georgia,Western Asian,Asia
+Armenia,Western Asian,Asia
+Qatar,Western Asian,Asia
+Bahrain,Western Asian,Asia
+Cyprus,Western Asian,Asia
+Uzbekistan,Central Asia,Asia
+Kazakhstan,Central Asia,Asia
+Tajikistan,Central Asia,Asia
+Kyrgyzstan,Central Asia,Asia
+Turkmenistan,Central Asia,Asia
+Germany,Western Europe,Europe
+France,Western Europe,Europe
+Netherlands,Western Europe,Europe
+Belgium,Western Europe,Europe
+Austria,Western Europe,Europe
+Switzerland,Western Europe,Europe
+Luxembourg,Western Europe,Europe
+Monaco,Western Europe,Europe
+Liechtenstein,Western Europe,Europe
+Russia,Eastern Europe,Europe
+Ukraine,Eastern Europe,Europe
+Poland,Eastern Europe,Europe
+Romania,Eastern Europe,Europe
+Czechia,Eastern Europe,Europe
+Hungary,Eastern Europe,Europe
+Belarus,Eastern Europe,Europe
+Bulgaria,Eastern Europe,Europe
+Slovakia,Eastern Europe,Europe
+Moldova,Eastern Europe,Europe
+UK,Northern Europe,Europe
+Sweden,Northern Europe,Europe
+Denmark,Northern Europe,Europe
+Finland,Northern Europe,Europe
+Norway,Northern Europe,Europe
+Ireland,Northern Europe,Europe
+Lithuania,Northern Europe,Europe
+Latvia,Northern Europe,Europe
+Estonia,Northern Europe,Europe
+Iceland,Northern Europe,Europe
+Channel Islands,Northern Europe,Europe
+Isle of Man,Northern Europe,Europe
+Faeroe Islands,Northern Europe,Europe
+Italy,Southern Europe,Europe
+Spain,Southern Europe,Europe
+Greece,Southern Europe,Europe
+Portugal,Southern Europe,Europe
+Serbia,Southern Europe,Europe
+Croatia,Southern Europe,Europe
+Bosnia and Herzegovina,Southern Europe,Europe
+Albania,Southern Europe,Europe
+North Macedonia,Southern Europe,Europe
+Slovenia,Southern Europe,Europe
+Montenegro,Southern Europe,Europe
+Malta,Southern Europe,Europe
+Andorra,Southern Europe,Europe
+Gibraltar,Southern Europe,Europe
+San Marino,Southern Europe,Europe
+Vatican City,Southern Europe,Europe
+Nigeria,Western Africa,Africa
+Ghana,Western Africa,Africa
+Ivory Coast,Western Africa,Africa
+Niger,Western Africa,Africa
+Burkina Faso,Western Africa,Africa
+Mali,Western Africa,Africa
+Senegal,Western Africa,Africa
+Guinea,Western Africa,Africa
+Benin,Western Africa,Africa
+Togo,Western Africa,Africa
+Sierra Leone,Western Africa,Africa
+Liberia,Western Africa,Africa
+Mauritania,Western Africa,Africa
+Gambia,Western Africa,Africa
+Guinea-Bissau,Western Africa,Africa
+Cabo Verde,Western Africa,Africa
+Ethiopia,Eastern Africa,Africa
+Tanzania,Eastern Africa,Africa
+Kenya,Eastern Africa,Africa
+Uganda,Eastern Africa,Africa
+Mozambique,Eastern Africa,Africa
+Madagascar,Eastern Africa,Africa
+Malawi,Eastern Africa,Africa
+Zambia,Eastern Africa,Africa
+Zimbabwe,Eastern Africa,Africa
+South Sudan,Eastern Africa,Africa
+Rwanda,Eastern Africa,Africa
+Burundi,Eastern Africa,Africa
+Somalia,Eastern Africa,Africa
+Eritrea,Eastern Africa,Africa
+Mauritius,Eastern Africa,Africa
+Djibouti,Eastern Africa,Africa
+Réunion,Eastern Africa,Africa
+Comoros,Eastern Africa,Africa
+Mayotte,Eastern Africa,Africa
+Seychelles,Eastern Africa,Africa
+Egypt,Northern Africa,Africa
+Sudan,Northern Africa,Africa
+Algeria,Northern Africa,Africa
+Morocco,Northern Africa,Africa
+Tunisia,Northern Africa,Africa
+Libya,Northern Africa,Africa
+Western Sahara,Northern Africa,Africa
+DRC,Middle Africa,Africa
+Angola,Middle Africa,Africa
+Cameroon,Middle Africa,Africa
+Chad,Middle Africa,Africa
+CAR,Middle Africa,Africa
+Congo,Middle Africa,Africa
+Gabon,Middle Africa,Africa
+Equatorial Guinea,Middle Africa,Africa
+Sao Tome and Principe,Middle Africa,Africa
+South Africa,Southern Africa,Africa
+Namibia,Southern Africa,Africa
+Botswana,Southern Africa,Africa
+Lesotho,Southern Africa,Africa
+Swaziland,Southern Africa,Africa
+USA,Northern America,Northern America
+Canada,Northern America,Northern America
+Bermuda,Northern America,Northern America
+Greenland,Northern America,Northern America
+Saint Pierre Miquelon,Northern America,Northern America
+Brazil,South America,Latin America and Caribbean
+Colombia,South America,Latin America and Caribbean
+Argentina,South America,Latin America and Caribbean
+Peru,South America,Latin America and Caribbean
+Venezuela,South America,Latin America and Caribbean
+Chile,South America,Latin America and Caribbean
+Ecuador,South America,Latin America and Caribbean
+Bolivia,South America,Latin America and Caribbean
+Paraguay,South America,Latin America and Caribbean
+Uruguay,South America,Latin America and Caribbean
+Guyana,South America,Latin America and Caribbean
+Suriname,South America,Latin America and Caribbean
+French Guiana,South America,Latin America and Caribbean
+Falkland Islands,South America,Latin America and Caribbean
+Mexico,Central America,Latin America and Caribbean
+Guatemala,Central America,Latin America and Caribbean
+Honduras,Central America,Latin America and Caribbean
+Nicaragua,Central America,Latin America and Caribbean
+El Salvador,Central America,Latin America and Caribbean
+Costa Rica,Central America,Latin America and Caribbean
+Panama,Central America,Latin America and Caribbean
+Belize,Central America,Latin America and Caribbean
+Cuba,Caribbean,Latin America and Caribbean
+Haiti,Caribbean,Latin America and Caribbean
+Dominican Republic,Caribbean,Latin America and Caribbean
+Puerto Rico,Caribbean,Latin America and Caribbean
+Jamaica,Caribbean,Latin America and Caribbean
+Trinidad and Tobago,Caribbean,Latin America and Caribbean
+Guadeloupe,Caribbean,Latin America and Caribbean
+Martinique,Caribbean,Latin America and Caribbean
+Bahamas,Caribbean,Latin America and Caribbean
+Barbados,Caribbean,Latin America and Caribbean
+Saint Lucia,Caribbean,Latin America and Caribbean
+Curaçao,Caribbean,Latin America and Caribbean
+St. Vincent Grenadines,Caribbean,Latin America and Caribbean
+Grenada,Caribbean,Latin America and Caribbean
+United States Virgin Islands,Caribbean,Latin America and Caribbean
+Aruba,Caribbean,Latin America and Caribbean
+Antigua and Barbuda,Caribbean,Latin America and Caribbean
+Dominica,Caribbean,Latin America and Caribbean
+Cayman Islands,Caribbean,Latin America and Caribbean
+Saint Kitts and Nevis,Caribbean,Latin America and Caribbean
+Sint Maarten,Caribbean,Latin America and Caribbean
+Saint Martin,Caribbean,Latin America and Caribbean
+Turks and Caicos,Caribbean,Latin America and Caribbean
+British Virgin Islands,Caribbean,Latin America and Caribbean
+Caribbean Netherlands,Caribbean,Latin America and Caribbean
+Anguilla,Caribbean,Latin America and Caribbean
+Montserrat,Caribbean,Latin America and Caribbean
+St. Barth,Caribbean,Latin America and Caribbean
+Australia,Australia & New Zealand,Oceania
+New Zealand,Australia & New Zealand,Oceania
+Papua New Guinea,Melanesia,Oceania
+Fiji,Melanesia,Oceania
+Solomon Islands,Melanesia,Oceania
+Vanuatu,Melanesia,Oceania
+New Caledonia,Melanesia,Oceania
+French Polynesia,Polynesia,Oceania
+Samoa,Polynesia,Oceania
+Tonga,Polynesia,Oceania
+American Samoa,Polynesia,Oceania
+Cook Islands,Polynesia,Oceania
+Wallis and Futuna Islands,Polynesia,Oceania
+Tuvalu,Polynesia,Oceania
+Niue,Polynesia,Oceania
+Tokelau,Polynesia,Oceania
+Guam,Micronesia,Oceania
+Kiribati,Micronesia,Oceania
+Micronesia,Micronesia,Oceania
+Northern Mariana Islands,Micronesia,Oceania
+Marshall Islands,Micronesia,Oceania
+Palau,Micronesia,Oceania
+Nauru,Micronesia,Oceania

@@ -1,0 +1,244 @@
+country,total_cases,total_deaths,total_recovered,press_freedom_index_2020,region,continent
+USA,1238052,72284,200669,23.85,Northern America,North America
+Spain,250561,25613,154718,22.16,Southern Europe,Europe
+Italy,213013,29315,85231,23.69,Southern Europe,Europe
+UK,194990,29427,0,22.93,Northern Europe,Europe
+France,170551,25531,52736,22.92,Western Europe,Europe
+Germany,167007,6993,137400,12.16,Western Europe,Europe
+Russia,165929,1537,21327,48.92,Eastern Europe,Europe
+Turkey,129491,3520,73285,50.02,Western Asian,Asian
+Brazil,115953,7958,48221,34.05,South America,South America
+Iran,101650,6418,81587,64.81,Southern Asia,Asian
+China,82883,4633,77911,78.48,Eastern Asia,Asian
+Canada,62046,4043,26993,15.29,Northern America,North America
+Peru,51189,1444,15413,30.94,South America,South America
+Belgium,50781,8339,12731,12.57,Western Europe,Europe
+India,49436,1695,14183,45.33,Southern Asia,Asian
+Netherlands,41087,5168,0,9.96,Western Europe,Europe
+Ecuador,31881,1569,3433,32.62,South America,South America
+Saudi Arabia,30251,200,5431,62.14,Western Asian,Asian
+Switzerland,30009,1795,25400,10.62,Western Europe,Europe
+Mexico,26025,2507,16810,45.45,Central America,North America
+Portugal,25702,1074,1743,11.83,Southern Europe,Europe
+Sweden,23216,2854,4074,9.25,Northern Europe,Europe
+Pakistan,22550,526,6217,45.52,Southern Asia,Asian
+Chile,22016,275,10710,27.31,South America,South America
+Ireland,21983,1339,13386,12.6,Northern Europe,Europe
+Singapore,20198,18,1519,55.23,South-Eastern Asia,Asian
+Belarus,19255,112,4388,49.75,Eastern Europe,Europe
+Qatar,17972,12,2070,42.51,Western Asian,Asian
+Israel,16314,238,10527,30.84,Western Asian,Asian
+Austria,15684,608,13639,15.78,Western Europe,Europe
+Japan,15253,556,4496,28.86,Eastern Asia,Asian
+UAE,15192,146,3153,42.69,Western Asian,Asian
+Poland,14647,723,4655,28.65,Eastern Europe,Europe
+Romania,14107,858,5788,25.91,Eastern Europe,Europe
+Ukraine,13184,327,2097,32.52,Eastern Europe,Europe
+Indonesia,12438,895,2317,36.82,South-Eastern Asia,Asian
+Bangladesh,11719,186,1403,49.37,Southern Asia,Asian
+South Korea,10806,255,9333,23.7,Eastern Asia,Asian
+Philippines,10004,658,1506,43.54,South-Eastern Asia,Asian
+Denmark,9938,503,7296,8.13,Northern Europe,Europe
+Serbia,9677,200,1723,31.62,Southern Europe,Europe
+Colombia,8613,378,2013,42.66,South America,South America
+Dominican Republic,8480,354,1905,27.9,Caribbean,North America
+Norway,7955,215,32,7.84,Northern Europe,Europe
+Czech Republic,7899,258,4017,23.57,Eastern Europe,Europe
+South Africa,7572,148,2746,22.41,Southern Africa,Africa
+Panama,7523,210,823,29.78,Central America,North America
+Egypt,7201,452,1730,56.82,Northern Africa,Africa
+Australia,6875,97,5984,20.21,Australia & New Zealand,Oceania
+Malaysia,6428,107,4702,33.12,South-Eastern Asia,Asian
+Kuwait,5804,40,2032,34.3,Western Asian,Asian
+Finland,5573,246,3500,7.93,Northern Europe,Europe
+Morocco,5382,182,1969,42.88,Northern Africa,Africa
+Argentina,5020,264,1472,28.78,South America,South America
+Algeria,4838,470,2067,45.52,Northern Africa,Africa
+Moldova,4363,136,1544,31.16,Eastern Europe,Europe
+Kazakhstan,4298,29,1299,54.11,Central Asia,Asian
+Luxembourg,3840,96,3412,15.46,Western Europe,Europe
+Bahrain,3720,8,1762,60.13,Western Asian,Asian
+Afghanistan,3392,104,458,37.7,Southern Asia,Asian
+Hungary,3111,373,759,30.84,Eastern Europe,Europe
+Thailand,2989,55,2761,44.94,South-Eastern Asia,Asian
+Nigeria,2950,98,481,35.63,Western Africa,Africa
+Oman,2903,13,888,43.42,Western Asian,Asian
+Armenia,2782,40,1135,28.6,Western Asian,Asian
+Ghana,2719,18,294,22.26,Western Africa,Africa
+Greece,2642,146,1374,28.8,Southern Europe,Europe
+Iraq,2431,102,1571,55.37,Western Asian,Asian
+Uzbekistan,2217,10,1556,53.07,Central Asia,Asian
+Croatia,2112,83,1560,28.51,Southern Europe,Europe
+Cameroon,2104,64,953,43.28,Middle Africa,Africa
+Azerbaijan,2060,26,1508,58.48,Western Asian,Asian
+Bosnia and Herzegovina,1946,79,911,28.51,Southern Europe,Europe
+Guinea,1811,10,498,34.34,Western Africa,Africa
+Bolivia,1802,86,187,35.37,South America,South America
+Iceland,1799,10,1733,15.12,Northern Europe,Europe
+Bulgaria,1758,82,360,35.06,Eastern Europe,Europe
+Estonia,1713,55,264,12.61,Northern Europe,Europe
+Cuba,1685,69,954,63.81,Caribbean,North America
+North Macedonia,1526,86,1013,,Southern Europe,Europe
+New Zealand,1488,21,1316,10.69,Australia & New Zealand,Oceania
+Ivory Coast,1464,18,701,28.94,Western Africa,Africa
+Slovenia,1448,99,246,22.64,Southern Europe,Europe
+Slovakia,1429,25,762,22.67,Eastern Europe,Europe
+Lithuania,1428,48,718,21.19,Northern Europe,Europe
+Senegal,1329,11,470,23.99,Western Africa,Africa
+Honduras,1270,93,122,48.2,Central America,North America
+Djibouti,1120,2,745,76.73,Eastern Africa,Africa
+Hong Kong,1041,4,932,30.01,Eastern Asia,Asian
+Tunisia,1022,43,482,29.45,Northern Africa,Africa
+Latvia,900,17,464,18.56,Northern Europe,Europe
+Cyprus,878,15,296,20.45,Western Asian,Asian
+Kyrgyzstan,871,12,614,30.19,Central Asia,Asian
+Somalia,835,38,75,55.45,Eastern Africa,Africa
+Albania,832,31,595,30.25,Southern Europe,Europe
+DR Congo,797,35,92,49.09,Middle Africa,Africa
+Sudan,778,45,70,55.33,Northern Africa,Africa
+Sri Lanka,771,9,215,41.94,Southern Asia,Asian
+Niger,763,38,543,28.25,Western Africa,Africa
+Guatemala,763,19,79,35.74,Central America,North America
+Costa Rica,755,6,413,10.53,Central America,North America
+Andorra,751,46,514,23.23,Southern Europe,Europe
+Lebanon,750,25,206,33.19,Western Asian,Asian
+Mayotte,739,9,352,,Eastern Africa,Africa
+Diamond Princess,712,13,645,,,
+Burkina Faso,688,48,548,23.47,Western Africa,Africa
+Uruguay,670,17,468,15.79,South America,South America
+El Salvador,633,14,219,29.7,Central America,North America
+Mali,612,32,228,34.12,Western Africa,Africa
+Georgia,610,9,269,28.59,Western Asian,Asian
+San Marino,589,41,92,,Southern Europe,Europe
+Maldives,573,2,20,29.93,Southern Asia,Asian
+Channel Islands,545,40,406,,Northern Europe,Europe
+Kenya,535,24,182,33.72,Eastern Africa,Africa
+Malta,482,5,403,30.16,Southern Europe,Europe
+Tanzania,480,16,167,40.25,Eastern Africa,Africa
+Guinea-Bissau,475,2,24,32.06,Western Africa,Africa
+Jamaica,473,9,56,10.51,Caribbean,North America
+Jordan,471,9,375,42.08,Western Asian,Asian
+Taiwan,439,6,339,23.76,Eastern Asia,Asian
+Paraguay,431,10,135,32.97,South America,South America
+Réunion,425,0,300,,Eastern Africa,Africa
+Gabon,397,6,93,37.2,Middle Africa,Africa
+Palestine,371,2,127,44.09,Western Asian,Asian
+Venezuela,367,10,164,45.66,South America,South America
+Mauritius,332,10,319,28,Eastern Africa,Africa
+Isle of Man,326,23,271,,Northern Europe,Europe
+Montenegro,324,8,261,33.83,Southern Europe,Europe
+Equatorial Guinea,315,3,13,56.38,Middle Africa,Africa
+Tajikistan,293,5,0,55.34,Central Asia,Asian
+Vietnam,271,0,232,74.71,South-Eastern Asia,Asian
+Rwanda,261,0,129,50.34,Eastern Africa,Africa
+Congo,236,10,26,36.56,Middle Africa,Africa
+Sierra Leone,199,11,43,30.28,Western Africa,Africa
+Faeroe Islands,187,0,185,,Northern Europe,Europe
+Cabo Verde,186,2,37,,Western Africa,Africa
+Martinique,182,14,83,,Caribbean,North America
+Sao Tome and Principe,174,3,4,,Middle Africa,Africa
+Liberia,170,20,58,32.25,Western Africa,Africa
+Chad,170,17,43,39.7,Middle Africa,Africa
+Ethiopia,162,4,93,32.82,Eastern Africa,Africa
+Myanmar,161,6,49,44.77,South-Eastern Asia,Asian
+Guadeloupe,152,13,104,,Caribbean,North America
+Madagascar,151,0,101,27.68,Eastern Africa,Africa
+Gibraltar,144,0,133,,Southern Europe,Europe
+Zambia,139,4,92,37,Eastern Africa,Africa
+Brunei,139,1,131,49.65,South-Eastern Asia,Asian
+French Guiana,138,1,111,,South America,South America
+Togo,128,9,74,29.33,Western Africa,Africa
+Cambodia,122,0,120,45.46,South-Eastern Asia,Asian
+Eswatini,119,1,12,,,Africa
+Trinidad and Tobago,116,8,103,23.22,Caribbean,North America
+Bermuda,115,7,54,,Northern America,North America
+Haiti,101,12,10,30.2,Caribbean,North America
+Aruba,101,2,82,,Caribbean,North America
+Nepal,99,0,22,35.1,Southern Asia,Asian
+Uganda,98,0,55,40.95,Eastern Africa,Africa
+Benin,96,2,50,35.11,Western Africa,Africa
+Monaco,95,4,81,,Western Europe,Europe
+Guyana,93,10,27,26.63,South America,South America
+Bahamas,89,11,26,,Caribbean,North America
+CAR,85,0,10,42.87,Middle Africa,Africa
+Barbados,82,7,47,,Caribbean,North America
+Liechtenstein,82,1,55,19.52,Western Europe,Europe
+Mozambique,81,0,19,33.79,Eastern Africa,Africa
+Cayman Islands,78,1,30,,Caribbean,North America
+Sint Maarten,76,14,44,,Caribbean,North America
+Libya,63,3,24,55.77,Northern Africa,Africa
+French Polynesia,60,0,54,,Polynesia,Oceania
+South Sudan,52,0,0,44.49,Eastern Africa,Africa
+Macao,45,0,39,,Eastern Asia,Asian
+Syria,44,3,27,72.57,Western Asian,Asian
+Malawi,41,3,9,29.32,Eastern Africa,Africa
+Mongolia,41,0,13,29.61,Eastern Asia,Asian
+Eritrea,39,0,30,83.5,Eastern Africa,Africa
+Saint Martin,38,3,29,,Caribbean,North America
+Angola,36,2,11,33.92,Middle Africa,Africa
+Zimbabwe,34,4,5,40.95,Eastern Africa,Africa
+Antigua and Barbuda,25,3,16,,Caribbean,North America
+Timor-Leste,24,0,20,29.9,South-Eastern Asia,Asian
+Botswana,23,1,8,23.56,Southern Africa,Africa
+Yemen,22,4,1,58.25,Western Asian,Asian
+Grenada,21,0,13,,Caribbean,North America
+Laos,19,0,9,64.28,South-Eastern Asia,Asian
+Belize,18,2,16,27.5,Central America,North America
+Fiji,18,0,14,27.41,Melanesia,Oceania
+New Caledonia,18,0,17,,Melanesia,Oceania
+Saint Lucia,18,0,15,,Caribbean,North America
+Gambia,17,1,9,30.62,Western Africa,Africa
+St. Vincent Grenadines,17,0,9,,Caribbean,North America
+Nicaragua,16,5,7,35.81,Central America,North America
+Curaçao,16,1,13,,Caribbean,North America
+Dominica,16,0,14,,Caribbean,North America
+Namibia,16,0,8,19.25,Southern Africa,Africa
+Burundi,15,1,7,55.33,Eastern Africa,Africa
+Saint Kitts and Nevis,15,0,12,,Caribbean,North America
+Falkland Islands,13,0,13,,South America,South America
+Turks and Caicos,12,1,6,,Caribbean,North America
+Montserrat,11,1,7,,Caribbean,North America
+Greenland,11,0,11,,Northern America,North America
+Vatican City,11,0,2,,Southern Europe,Europe
+Seychelles,11,0,8,28.66,Eastern Africa,Africa
+Suriname,10,1,9,17.5,South America,South America
+MS Zaandam,9,2,0,,,
+Mauritania,8,1,6,32.54,Western Africa,Africa
+Papua New Guinea,8,0,8,23.93,Melanesia,Oceania
+Bhutan,7,0,5,28.9,Southern Asia,Asian
+British Virgin Islands,6,1,3,,Caribbean,North America
+Caribbean Netherlands,6,0,0,,Caribbean,North America
+St. Barth,6,0,6,,Caribbean,North America
+Western Sahara,6,0,5,,Northern Africa,Africa
+Anguilla,3,0,3,,Caribbean,North America
+Comoros,3,0,0,29.77,Eastern Africa,Africa
+Saint Pierre Miquelon,1,0,0,,Northern America,North America
+Cape Verde,,,,20.15,,
+Cyprus North,,,,29.79,,
+Lesotho,,,,30.45,Southern Africa,
+Macedonia,,,,31.28,,
+Democratic People's Republic of Korea,,,,85.82,,
+Swaziland,,,,45.15,Southern Africa,
+Turkmenistan,,,,85.44,Central Asia,
+Tonga,,,,27.27,Polynesia,
+Samoa,,,,18.25,Polynesia,
+OECS,,,,23.78,,
+Kosovo,,,,29.33,,
+North Korea,,,,,Eastern Asia,
+Puerto Rico,,,,,Caribbean,
+United States Virgin Islands,,,,,Caribbean,
+Solomon Islands,,,,,Melanesia,
+Vanuatu,,,,,Melanesia,
+American Samoa,,,,,Polynesia,
+Cook Islands,,,,,Polynesia,
+Wallis and Futuna Islands,,,,,Polynesia,
+Tuvalu,,,,,Polynesia,
+Niue,,,,,Polynesia,
+Tokelau,,,,,Polynesia,
+Guam,,,,,Micronesia,
+Kiribati,,,,,Micronesia,
+Micronesia,,,,,Micronesia,
+Northern Mariana Islands,,,,,Micronesia,
+Marshall Islands,,,,,Micronesia,
+Palau,,,,,Micronesia,
+Nauru,,,,,Micronesia,
