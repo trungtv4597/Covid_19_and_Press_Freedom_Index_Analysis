@@ -1,0 +1,7 @@
+mean_pfi,best_pfi,worst_pfi,country_best,cases/1m_best,deaths/1m_best,country_worst,cases/1m_worst,deaths/1m_worst
+38.2386,19.25,83.5,Namibia,6.0,0.0,Eritrea,11.0,0.0
+44.080625,20.45,78.48,Cyprus,727.0,12.0,China,58.0,3.0
+22.485750000000003,7.84,49.75,Norway,1467.0,40.0,Belarus,2038.0,12.0
+30.499333333333325,10.51,63.81,Jamaica,160.0,3.0,Cuba,149.0,6.0
+20.560000000000002,10.69,27.41,New Zealand,309.0,4.0,Fiji,20.0,0.0
+30.856666666666666,15.79,45.66,Uruguay,193.0,5.0,Venezuela,13.0,0.4

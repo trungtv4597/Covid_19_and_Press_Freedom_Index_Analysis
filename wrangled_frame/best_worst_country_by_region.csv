@@ -1,0 +1,21 @@
+mean_pfi,best_pfi,worst_pfi,country_best,cases/1m_best,deaths/1m_best,country_worst,cases/1m_worst,deaths/1m_worst,continent
+15.45,10.69,20.21,New Zealand,309.0,4.0,Australia,270.0,4.0,Oceania
+31.128000000000004,10.51,63.81,Jamaica,160.0,3.0,Cuba,149.0,6.0,North America
+32.838750000000005,10.53,48.2,Costa Rica,148.0,1.0,Honduras,128.0,9.0,North America
+48.1775,30.19,55.34,Kyrgyzstan,134.0,2.0,Tajikistan,31.0,0.5,Asia
+42.70833333333333,27.68,83.5,Madagascar,5.0,0.0,Eritrea,11.0,0.0,Africa
+35.73666666666666,23.7,78.48,S. Korea,211.0,5.0,China,58.0,3.0,Asia
+32.90500000000001,22.67,49.75,Slovakia,262.0,5.0,Belarus,2038.0,12.0,Europe
+25.67,23.93,27.41,Papua New Guinea,0.9,0.0,Fiji,20.0,0.0,Oceania
+42.375,33.92,56.38,Angola,1.0,0.06,Equatorial Guinea,225.0,2.0,Africa
+47.62833333333333,29.45,56.82,Tunisia,86.0,4.0,Egypt,70.0,4.0,Africa
+19.57,15.29,23.85,Canada,1644.0,107.0,USA,3740.0,218.0,North America
+13.616,7.84,22.93,Norway,1467.0,40.0,UK,2872.0,433.0,Europe
+30.856666666666666,15.79,45.66,Uruguay,193.0,5.0,Venezuela,13.0,0.4,South America
+47.49272727272727,29.9,74.71,Timor-Leste,18.0,0.0,Vietnam,3.0,0.0,Asia
+21.74,19.25,23.56,Namibia,6.0,0.0,Botswana,10.0,0.4,Africa
+42.06666666666667,28.9,64.81,Bhutan,9.0,0.0,Iran,1210.0,76.0,Asia
+26.269166666666667,11.83,33.83,Portugal,2521.0,105.0,Montenegro,516.0,13.0,Europe
+30.21266666666667,22.26,35.63,Ghana,88.0,0.6,Nigeria,14.0,0.5,Africa
+44.873333333333335,20.45,72.57,Cyprus,727.0,12.0,Syria,3.0,0.2,Asia
+14.873750000000001,9.96,22.92,Netherlands,2398.0,302.0,France,2613.0,391.0,Europe
