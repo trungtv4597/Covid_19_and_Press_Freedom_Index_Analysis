@@ -24,6 +24,7 @@
   
 5. [Conclusion](#conclusion) 
 6. [Limitation and Improvement](#limit)
+7. [Author](#author)
   
 
 # Goal <a name="goal"></a>
@@ -181,3 +182,16 @@ There is no direct evidence that can indicate the low FPI nations lying about th
 # Limitation and Improvement <a name="limit"></a>
 
 The biggest limitation in this report is only one national index to compare with four indicator of epidemic situation. So the best way to improve this report is collecting more data to extract insight, evidence or causal relationship.
+
+# About Me <a name="author"></a>
+
+My name is Duc-Trung Tran,
+
+* [Github](https://github.com/trungtv4597/)
+* [LinkedIn](https://www.linkedin.com/in/trung-tran-4b1501180/)
+* Email: trungtv4597@gmail.com
+
+A year ago, I started my first science project, self-driving application, to try to utilize all the knowledge I had gained from university. In the development process, I applied artificial neural network technology, and soon it was all my interest.
+
+I have been inspired by the story of Moneyball, where people were using the power of programming and statistics to change the unfair game, to win with the lowest budget. I know we can apply that instance to improve our life, our business or our performance. That's why I decided to leave the IoT laboratory, where I was a collaborator, to focus all my resources to pursue a career in data science.
+
