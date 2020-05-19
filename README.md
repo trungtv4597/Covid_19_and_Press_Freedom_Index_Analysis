@@ -12,7 +12,7 @@
     3. [By Continent](#continent)
     
         1. [Ranking](#con_rank)
-        2. [The Best and worst PFI Score each Continent by Number of Cases over 1 Million Population](#best_worst_pfi_each_continent)
+        2. [The Best and worst PFI Score Nations each Continent by Number of Cases over 1 Million Population](#best_worst_pfi_each_continent)
 
     4. [By Region](#region)
     
@@ -104,7 +104,7 @@ Each circle represents a nation in the Index of Press Freedom. Correlation plot 
 
 ### Ranking and List of The Best and Worst Score each Continent <a name="con_rank"></a>
 
-We are going to rank all contients by their average PFI and list the best and worst score nations each continent. 
+We are going to rank all continents by their average PFI and list the best and worst score nations each continent. 
 
 ![Rank and list of best-worst pfi score each continet](https://github.com/trungtv4597/Covid_19_and_Press_Freedom_Index_Analysis/blob/master/charts/pfi_con.jpg)
 
